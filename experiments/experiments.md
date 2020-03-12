@@ -8,6 +8,7 @@
 
 ### Experiment name ###
 
+Turning on a fan
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
