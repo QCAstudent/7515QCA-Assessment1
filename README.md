@@ -14,4 +14,3 @@ You can edit this workbook here: [Inventor Kit Experiments](/experiments/experim
 ### Assessment 1 replication project ###
 
 You can edit this workbook here: [Replication Project](/replicationproject/replication.md)
-
